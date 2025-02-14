@@ -1,5 +1,10 @@
 # Hello-World
 First Repository
-## Heading 1
-### Heading 2
-**bold**
+## Table of Contents
+
+- [PROJECT TITLE](#Project-Title)
+- [DESCRIPTION](#Description)
+- [HOW TO RUN PROGRAM](#How-to-run-program)
+- [FILES USED](#files-used)
+- [ADDITONAL DOCUMENTATION](#additional-documentation)
+- [VERSIONING](#versioning)
