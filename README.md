@@ -10,5 +10,8 @@ First Repository
 - [VERSIONING](#versioning)
 
 ### Project Title
-*Hello World - Kayden McMaster*
-
+**Hello World - Kayden McMaster**
+*Steps*
+1. Beginning of the Project
+2. Progress
+3. Final Steps
